@@ -1,0 +1,7 @@
+﻿  TP3_Code.cpp
+C:\Users\michael\Downloads\LaboAE etudiants\LaboAE etudiants\TP3_Code.cpp(207,50): warning C4267: 'argument' : conversion de 'size_t' en 'int', perte possible de données
+  Génération de code en cours
+  Previous IPDB not found, fall back to full compilation.
+  All 428 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Fin de la génération du code
+  LaboAE.vcxproj -> C:\Users\michael\Downloads\LaboAE etudiants\LaboAE etudiants\x64\Release\LaboAE.exe
