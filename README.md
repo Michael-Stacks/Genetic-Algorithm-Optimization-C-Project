@@ -9,6 +9,7 @@ Evolutionary Operators: Customizable selection, crossover, and mutation strategi
 Dynamic Memory Management: Efficient handling of populations and offspring using dynamic memory techniques in C++.
 DLL Integration: Uses dynamic library functions to encapsulate problem-specific operations, ensuring a clean and maintainable codebase.
 Parameter Customization: Easily adjust population size, crossover/mutation probabilities, and termination criteria to suit various optimization challenges.
+
 🛠️ Technologies Used
 Language: C++
 Programming Paradigm: Procedural and Modular Programming
